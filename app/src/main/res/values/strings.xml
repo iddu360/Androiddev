@@ -1,0 +1,20 @@
+<resources>
+  <string name="app_name">AndroidOne</string>
+  <string name="login">Welcome to the \nLogin Page</string>
+  <string name="email">Enter Email</string>
+  <string name="password">Enter Password</string>
+  <string name="register_page">Register</string>
+  <string name="login_page">Login</string>
+  <string name="email_ph">Email</string>
+  <string name="password_ph">Password</string>
+  <string name="activity_title">Blank Activity \nPage</string>
+  <string name="switchButton">Switch Activity</string>
+  //profile page
+  <string name="pageTitle">User Profile</string>
+  <string name="profileImage">This is profile image</string>
+  <string name="firstName">First Name</string>
+  <string name="lastName">Last Name</string>
+  <string name="emailAddress">Email Address</string>
+  <string name="phoneNumber">Phone Number</string>
+  <string name="logout">Logout</string>
+</resources>
